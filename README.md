@@ -314,4 +314,3 @@ Bazzite собирается в GitHub. Создать свою версию л�
 - [Mastodon](https://fosstodon.org/@UniversalBlue).
 
 [**Полный список ресурсов Bazzite**](https://docs.bazzite.gg/Resources/).
-```
