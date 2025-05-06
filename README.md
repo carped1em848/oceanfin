@@ -88,7 +88,11 @@ Bazzite основан на [ublue-os/main](https://github.com/ublue-os/main) и
 
 ```bash
 rpm-ostree rebase ostree-unverified-registry:ghcr.io/ublue-os/bazzite:stable
-
+```
+или для устройств с видеокартами Nvidia, которым нужны проприетарные драйвера Nvidia
+```bash
+rpm-ostree rebase ostree-unverified-registry:ghcr.io/ublue-os/bazzite-nvidia:stable
+```
 **Для пользователей с Secure Boot:** Перед переходом следуйте [инструкциям по Secure Boot](#secure-boot).
 
 ### Steam Deck/Домашние кинотеатры (HTPC)
